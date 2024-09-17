@@ -1,5 +1,5 @@
 # jogo-da-cobrinha
-Computação Gráfica
+<h3>Computação Gráfica</h3>
 <br>O código desenvolvido é de um jogo da cobrinha. Ao executar, exibirá o título e, pressionando o botão direito do mouse, exibirá o menu principal e seus submenus que consistem nos seus modos de jogo. Ao selecionar o modo desejado, deve-se clicar com o botão esquerdo do mouse na janela para que seja atualizada para a tela de início do jogo e, para o início da locomoção da cobrinha, utiliza-se a tecla SPACE, ou, suprindo as duas etapas, também pode ser utilizada apenas a tecla SPACE. Um deles é o modo de fases, onde, no decorrer delas, a velocidade de locomoção da cobrinha aumentará e seu objetivo (quantidade de frutas a serem coletadas) também. Essas fases são independentes, ou seja, não é necessário vencer a fase 1 para conseguir jogar a fase 2, são apenas níveis de dificuldade diferentes. Ao vencer, será exibida uma mensagem indicando a vitória, ou, se perder, será exibida uma mensagem indicando a derrota.
 
 - Fase 1:
